@@ -1,0 +1,33 @@
+*{
+	font-family: 'Source Sans Pro', sans-serif; font-weight: 300;
+	color:#747704;
+}
+
+body {
+	background-image: url("img/tweed.png");
+}
+
+.container {
+	background-image: url("img/brickwall.png");
+}
+
+.title {
+	background-color: #F8981C;
+}
+
+.text-muted {
+	color: #BCBBBB;
+}
+
+.text-thin {
+	font-weight: 200;
+}
+
+.title-super {
+	font-size: 60px;
+}
+
+img {
+	padding: 20px 20px 20px 20px;
+}
+
